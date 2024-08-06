@@ -1,0 +1,33 @@
+C:\Users\Devil Mind\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\Devil Mind\Desktop\project\project\bin\Debug\project.exe
+C:\Users\Devil Mind\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.MainForm.resources
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.StartForm.resources
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.exe
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.Router.resources
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.WorkStation.resources
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.FireWall.resources
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.PingForm.resources
+C:\Users\Devil Mind\Desktop\project\project\obj\Debug\project.Switch.resources
+F:\assignment\project\project\bin\Debug\project.exe.config
+F:\assignment\project\project\bin\Debug\project.exe
+F:\assignment\project\project\bin\Debug\project.pdb
+F:\assignment\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+F:\assignment\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+F:\assignment\project\project\obj\Debug\project.FireWall.resources
+F:\assignment\project\project\obj\Debug\project.PingForm.resources
+F:\assignment\project\project\obj\Debug\project.WorkStation.resources
+F:\assignment\project\project\obj\Debug\project.Router.resources
+F:\assignment\project\project\obj\Debug\project.MainForm.resources
+F:\assignment\project\project\obj\Debug\project.Switch.resources
+F:\assignment\project\project\obj\Debug\project.StartForm.resources
+F:\assignment\project\project\obj\Debug\project.Properties.Resources.resources
+F:\assignment\project\project\obj\Debug\project.csproj.GenerateResource.cache
+F:\assignment\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+F:\assignment\project\project\obj\Debug\project.exe
+F:\assignment\project\project\obj\Debug\project.pdb
